@@ -1,0 +1,38 @@
+
+@media only screen and (min-width: 320px) {
+  .header {
+		width: 67%;
+	
+	}
+	form{
+		width: 67%;
+	}
+	#page-wrapper {
+    	background-color : #fff; 
+	}
+	.form-upload{
+		border: 1px solid #4D9937;
+	}
+	.form-note{
+		width: 284px;
+		height: 193px;
+		border-radius: 5px;
+		border: 1px solid #4D9937;
+	}
+	.form-note:active{
+		border: 1px solid #4D9937; 
+	}
+
+	table{
+		width: 100%;
+	}
+}
+@media only screen and (min-width: 780px) {
+	.header{
+		width: 35%;
+
+	}
+	form{
+		width: 35%;
+	}
+}
